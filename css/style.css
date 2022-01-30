@@ -23,7 +23,7 @@ html{
     justify-content: center;
     align-items: center;
     position: sticky;
-    cursor: pointer;
+/*     cursor: pointer; */
     top:0;
 }
 
