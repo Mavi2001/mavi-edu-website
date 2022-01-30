@@ -22,6 +22,7 @@
     }
     .h-nav-resp{
         height: 60px;
+        background-color: black;
     }
     .v-class-resp{
         opacity: 0;
