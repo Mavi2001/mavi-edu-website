@@ -98,11 +98,13 @@ html{
     border: solid white;
 }
 .text-big{
-    font-size: 30px;
+    font-size: 50px;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 .text-sm{
-    font-size: 18px;
+    font-size: 30px;
+    font-family: 'Ubuntu', sans-serif;
 }
 .btn{
     padding: 8px 20px;
