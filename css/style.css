@@ -140,8 +140,11 @@ html{
 }
 
 .sectionsubTag{
-    font-size:30px;
+    font-size:18px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.sectionTag{
+    font-size:30px;
 }
 .thumbnail img{
     /* width: 250px; */
