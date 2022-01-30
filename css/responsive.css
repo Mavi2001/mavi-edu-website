@@ -42,4 +42,13 @@
     .fhalf{
         padding-right: 90px;
     }
+    .text-big{
+        font-size: 30px;
+        font-family: 'Ubuntu', sans-serif;
+    }
+    
+    .text-sm{
+        font-size: 18px;
+        font-family: 'Ubuntu', sans-serif;
+    }
 }
